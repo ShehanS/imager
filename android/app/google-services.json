@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8174766586",
+    "project_id": "ncinga-image-classification",
+    "storage_bucket": "ncinga-image-classification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8174766586:android:b66d3be64b7122ced97c43",
+        "android_client_info": {
+          "package_name": "com.example.imager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8174766586-4qote6q7662lf652idurb7kibiu54tso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imager",
+            "certificate_hash": "c4486ee3209a1fa6040611ca6c55193d248c7fb6"
+          }
+        },
+        {
+          "client_id": "8174766586-rnhj74k498sl8nr5594arfoel02m1lcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsZboky4JJojfGSOZMVVdgymz69JMsE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8174766586-rnhj74k498sl8nr5594arfoel02m1lcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
